@@ -33,5 +33,6 @@ Variables are containers for data.
             const Fname= "Deeps";
         we have give any value while declaring the const.
           without initializing any value the const it will give an error.
+          In const we cant change the variable value but change in the objects key.
           
     
