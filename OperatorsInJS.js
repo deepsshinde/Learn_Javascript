@@ -102,4 +102,18 @@ OPERATORS :
          F     |   T      |   F
          F     |   F      |   T
 --------------------------------------
+
+
+5. Ternary Operator:
+   it works on 3operands
+ one condition and 2 output
+it is noting but the another way ot write the if-else statements.
+   when conditions are small then this operator can be used.
+   for large numbers of conditions this operator isnt work efficiently.
+Syntax:
+   a? true : false
+
+let age =20;
+let res = age>18? true : false;
+console.log(res);
         
