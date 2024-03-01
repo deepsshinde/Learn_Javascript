@@ -13,6 +13,15 @@ What Is Javascript?
         Angular
         React
         Node, etc
+
+    we use it to give instrutions to the computer.
+    Input(code) --> Computer --> Output
+      ^                ^
+      |                |
+    Instructions 
+
+    
+
     
     
     
