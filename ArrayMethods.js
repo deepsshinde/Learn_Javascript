@@ -18,3 +18,23 @@ Array Methods :
 
         3. toString().
                 it returns a new string whic converts an array to string.
+
+
+        4. concat() :
+                it is used to join multiple arrays and returns the result.
+        
+        5. unshift():
+                 it works like same as push method.
+                but it used to add an item from the beginning of the array. (start of the array)
+
+        6. shift():
+            it is same like pop() but is used to delete an item from the start of the array.
+                    
+        7. slice():
+            It is used to returns a piece of an array.
+                    
+        8. splice():
+            it is used to change the orginal array
+            syntax:
+                  splice(startindex, deletecount, newelement)
+                  splice(1, 2, 3,4,5)
