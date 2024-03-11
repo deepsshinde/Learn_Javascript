@@ -50,3 +50,6 @@ DOM MANIPULATION PROPERTIRS:.
                 It returns the plain text or HTML contents in the element.
         4. textContent :
                 It returns textual content even for hidden elements.
+
+
+                        
