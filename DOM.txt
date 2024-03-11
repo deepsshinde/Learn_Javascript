@@ -1,0 +1,32 @@
+WINDOW OBJECT:.
+        the window object represents an open window in a browser. it browers object( not js's) & automatically created byt the browser
+        it is aglobal object with lots of prooperties & methods.
+        
+
+
+DOM: .
+        Dom stands for Document Object Model.
+        Dom has tree like structure
+        Each node in tree s object.
+                        Window
+                          |
+                          v
+                        Document
+                          |
+                          v
+                        HTML
+                          /\   
+                Head                              Body
+        meta meta title link             div                script
+                                  img h1 p duv
+
+DOM MANIPULATION:.
+        DOM Maniulation is nothing but the accessing the elements.
+        we can access element using various ways.
+
+        1. ID:
+                to define id in css we use #.
+                document.getElementById("some value")
+        2. 
+
+        
