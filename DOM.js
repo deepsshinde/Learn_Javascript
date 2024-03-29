@@ -47,7 +47,7 @@ DOM MANIPULATION PROPERTIRS:.
         2. innerText :
                 It returns text context of the element and all its childre.
         3. innerHTML :
-                It returns the plain text or HTML contents in the element.
+                It returns the plain text with HTML contents in the element.
         4. textContent :
                 It returns textual content even for hidden elements.
 
